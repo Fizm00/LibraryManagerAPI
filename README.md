@@ -13,6 +13,7 @@ An API built with Express.js and MongoDB to manage a book borrowing system. This
 - **Book Borrowing Transactions**: Borrow, return, and manage book borrowing records.
 
 ## 📂 Folder Structure
+```bash
 project/
 ├── node_modules/       # Contains installed npm dependencies
 ├── src/                # Main folder for source code
@@ -50,7 +51,7 @@ project/
 ├── nodemon.json          # Nodemon configuration for auto-restart in development
 ├── package-lock.json     # Dependency lock file to ensure consistent installs
 ├── package.json          # npm configuration file for dependencies and scripts
-
+```
 
 ## 🚀 Getting Started
 
