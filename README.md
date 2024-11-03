@@ -2,7 +2,7 @@
 
 An API built with Express.js and MongoDB to manage a book borrowing system. This project includes features for handling books, authors, categories, borrowers, and book borrowing transactions.
 
-<img src="Postman.png" alt="Alt text" width="500" height="300">
+<img src="Postman.png" alt="Alt text" width="700" height="300">
 
 ## ✨ Features
 
