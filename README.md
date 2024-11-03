@@ -1,16 +1,15 @@
-# 📚 Book Borrowing System API
-
-An API built with Express.js and MongoDB to manage a book borrowing system. This project includes features for handling books, authors, categories, borrowers, and book borrowing transactions.
+📚 LibraryManagerAPI
+LibraryManagerAPI is an API designed using Express.js and MongoDB to manage a book borrowing system. This project offers a comprehensive set of features that enable efficient management of books, authors, categories, borrowers, and book borrowing transactions.
 
 <img src="Postman.png" alt="Alt text" width="700" height="400">
 
 ## ✨ Features
 
-- **Books Management**: Add, update, and delete books.
-- **Authors Management**: Add, update, and delete authors.
-- **Categories Management**: Add, update, and delete book categories.
-- **Borrowers Management**: Manage information about book borrowers.
-- **Book Borrowing Transactions**: Borrow, return, and manage book borrowing records.
+- **Books Management**: Easily add, update, and delete book data. Retrieve detailed information about each book, including title, author, category, and availability status.
+- **Authors Management**: Store and manage information about authors, including biographies and a list of books they have written.
+- **Categories Management**: Organize books by category, making it easier to search and filter by genre or theme.
+- **Borrowers Management**: Manage borrower data, including contact information and borrowing history, facilitating the tracking of borrowed books.
+- **Book Borrowing Management**: Record borrowing transactions, including borrow dates, due dates, and borrowing status, with the ability to update borrowing status in real-time.
 
 ## 📂 Folder Structure
 ```bash
